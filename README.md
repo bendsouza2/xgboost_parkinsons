@@ -1,1 +1,1 @@
-# xgboost_parkinsons
+Project to practice xgboost on a UCI ML dataset, detecting whether a patient has Parkinson's
